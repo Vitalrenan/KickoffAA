@@ -3,9 +3,10 @@
 
 #Scripts
 POC_v4.ipynb
-
-
-
+base.csv
+base.xlsx
+base_parquet
+logo_cogna.png
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
